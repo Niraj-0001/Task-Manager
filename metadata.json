@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "An ultra-modern, stylish, smooth, aesthetic, and responsive task management application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
